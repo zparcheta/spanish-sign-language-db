@@ -60,4 +60,5 @@ The sample frequency is fixed at 30 frames per second. All data is normalised be
 
 ## This data is not allowed for commercial purposes! 
 ## Please, if you use any part of the corpus in your own work, cite the following article:
-Soon
+Z. Parcheta and C.D. Martínez-Hinarejos: “Sign language gesture recognition using HMM,” accepted at 8th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2017), Faro (Portugal), 2017.
+
